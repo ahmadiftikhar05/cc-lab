@@ -23,7 +23,6 @@ export default function Home() {
             <ul className="list-disc list-inside text-gray-800">
               <li>Docker</li>
               <li>localstack</li>
-              <li>Vercel</li>
               <li>teraform</li>
             </ul>
           </div>
