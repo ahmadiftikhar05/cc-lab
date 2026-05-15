@@ -18,6 +18,15 @@ export default function Home() {
             <label className="font-semibold text-blue-600">Enrollment :</label>
             <span className="text-gray-800 font-medium">01-131232-009</span>
           </div>
+           <div className="flex items-center justify-between p-4 bg-gray-100 rounded-lg">
+            <label className="font-semibold text-blue-600">Labs</label>
+            <ul className="list-disc list-inside text-gray-800">
+              <li>Docker</li>
+              <li>localstack</li>
+              <li>Vercel</li>
+              <li>teraform</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
